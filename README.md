@@ -1,5 +1,9 @@
+-------------------------------------------------  
+This was a coding challenge for a software company for an internship position. We had 3 hours to complete the challenge  
+-------------------------------------------------    
 
-This was a coding challenge for a software company. Instructions were as follows:
+
+Instructions were as follows:
 Wiki Coding Task
 We’d like you to create the backend for a wiki, like Wikipedia. With the following requirements:
 1. A wiki is a collection of documents
