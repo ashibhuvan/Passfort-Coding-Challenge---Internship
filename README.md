@@ -1,5 +1,5 @@
 -------------------------------------------------  
-This was a coding challenge for a software company for an internship position. We had 3 hours to complete the challenge  
+This was a coding challenge for a software company for an internship position. You were given 3 hours to complete the challenge  
 -------------------------------------------------    
 
 
